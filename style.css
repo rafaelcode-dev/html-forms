@@ -1,0 +1,23 @@
+form div input {
+    margin-bottom: 20px;
+}
+
+form div label {
+    display:block;
+    margin-bottom: 5px;
+    font-family: 'Segoe UI', Roboto, Oxygen,'Helvetica Neue', sans-serif;
+}
+
+form div textarea {
+    width: 50%;
+    height: 100px;
+}
+
+form div textarea[type = "text-area"] {
+    font-size:16px;
+    color: black;
+    font-family:'Segoe UI', Roboto, Oxygen,'Helvetica Neue', sans-serif;
+}
+div button {
+    margin-top:10px;
+}
